@@ -1,1 +1,5 @@
-v
+{
+   "usuarios": [
+       { "usuario": "MANRAINPRO", "contraseña": "MANRAINPRO" }
+   ]
+}
