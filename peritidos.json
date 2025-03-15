@@ -1,12 +1,16 @@
-USUARIO 
-GATESCCN
-CONTRASEÑA
-MANDARINI123
-USUARIO
-JOSE2113
-CONTRASEÑA
-MANGAGAGA
-USUARIO
-HELEN
-CONTRASEÑA
-HELEN123
+{
+  "usuarios": [
+    {
+      "usuario": "GATESCCN",
+      "contraseña": "TUxOREFSSU5JMTIz" 
+    },
+    {
+      "usuario": "JOSE2113",
+      "contraseña": "TUFOR0FHR0E=" 
+    },
+    {
+      "usuario": "HELEN",
+      "contraseña": "SEVMRU4xMjM=" 
+    }
+  ]
+}
